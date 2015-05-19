@@ -4,7 +4,7 @@ var gulp = require('gulp'),
   nodemon = require('gulp-nodemon')
 
 var paths = {
-  styl: './src/styl/*.main',
+  styl: './src/styl/*.styl',
   css: './public/css',
   coffee: './src/coffee/*.coffee',
   core: './src/core/*.coffee',
