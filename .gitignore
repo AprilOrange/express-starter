@@ -1,5 +1,5 @@
-core
-public
+core/
+public/
 
 # Logs
 logs

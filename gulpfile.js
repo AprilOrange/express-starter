@@ -7,7 +7,7 @@ var paths = {
   styl: './src/styl/*.styl',
   css: './public/css',
   coffee: './src/coffee/*.coffee',
-  core: './src/core/*.coffee',
+  core: './src/system/*.coffee',
   app: './core',
   js: './public/js/'
 }
